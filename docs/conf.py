@@ -10,9 +10,9 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'SSO ID Guide'
-copyright = '2025, SSO ID'
-author = 'Shivam'
+project = 'Plex TV Link'
+copyright = '2025, Plex TV'
+author = 'James'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
@@ -20,11 +20,11 @@ release = '1.0.0'
 # -- HTML output settings ----------------------------------------------------
 
 # SEO Title for browser tab and HTML pages
-html_title = "SSO ID - Login, Registration - Rajasthan SSO Portal Guide"
+html_title = "Link Plex Tv Using PLex.tv/link"
 
 
 # Optional short title for nav bar
-html_short_title = "SO ID - Login, Registration"
+html_short_title = "PLex.tv/link Code"
 
 # Favicon (place favicon.ico in the root or _static folder)
 html_favicon = 'favicon.ico'
